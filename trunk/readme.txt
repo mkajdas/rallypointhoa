@@ -1,0 +1,5 @@
+Rally Point was originally designed to be run as a web service (and still is at http://rallypoint.wbpsystems.com).  So as a result to run Rally Point on your own server, some things need to be adjusted in some strange ways.  First you need to create a directory called "rpstore" two directories up from where you install rally point.  So if you were installing this on OS X, you would install the files in "/Library/WebServer/Documents" you would create a the folder "rpstore" at "/Library/rpstore".  Rpstore must have write access available to your webserver.
+
+Additionally, you need to run the file sql.sql in your mysql server.  There is some example data in the last line of that file that you are going to want to change.  config.php and install.php also need to be modified, there is instructions in the files.
+
+Once you are done, run install.php and have fun.
