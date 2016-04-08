@@ -1,0 +1,3 @@
+Rally Point is a community collaboration site designed for homeowners associations (HOAs), apartment complexes, condominiums or any other group of people who need to share files, notes, FAQS, log information, financials or car registration information. Its really simple, allowing you to get everyone up-to-speed without training or confusion.
+
+This software has not been updated in years, if anyone feels like adding to it they are free to do so.
